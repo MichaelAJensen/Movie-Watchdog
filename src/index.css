@@ -60,7 +60,7 @@ body,
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    /* text-align: center; */
+  
     width: 20vw;  
     color:white;   
     margin-top: 5px;
@@ -81,7 +81,7 @@ body,
 }
 .already-watched {
     color:white;
-    /* text-align: center; */
+ 
     height: 10px;
     
 }
